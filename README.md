@@ -1,5 +1,5 @@
 # Indian Car Sales Data Analysis 🚗📊
-![image](https://github.com/Adityaabhiram315/Indian-Car-Sales-Data-Analysis/assets/95640107/23faa00f-2a44-4205-9901-a66c74d53a08)
+
 ![image](https://github.com/Adityaabhiram315/Indian-Car-Sales-Data-Analysis/assets/95640107/bb63d5a2-5d7f-466c-8bb1-57d66ef33ea7)
 
 ## Overview 🇮🇳🚗
@@ -17,7 +17,7 @@ Dive into the dynamic landscape of the Indian car market with our latest project
 
 ## Methodology 💡💻
 Our approach involves a meticulous examination of the dataset, utilizing a diverse set of statistical tools and visualizations. We leave no stone unturned in our quest to unearth meaningful insights and trends.
-
+![image](https://github.com/Adityaabhiram315/Indian-Car-Sales-Data-Analysis/assets/95640107/23faa00f-2a44-4205-9901-a66c74d53a08)
 ## Impact 💼✨
 This project is not just about numbers; it's about empowering stakeholders with actionable information. Whether you're an industry enthusiast, policymaker, or business professional, these insights provide a roadmap for navigating the dynamic Indian car market.
 

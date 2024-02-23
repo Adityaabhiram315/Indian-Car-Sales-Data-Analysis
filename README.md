@@ -2,7 +2,9 @@
 
 ## Overview 🇮🇳🚗
 Dive into the dynamic landscape of the Indian car market with our latest project! 📈 In this analysis, we unveil intriguing insights into car sales trends, patterns, and relationships, with a spotlight on the remarkable 13% increase in passenger car sales witnessed in May 2023 compared to the previous year. 🌟
+
 ![image](https://github.com/Adityaabhiram315/Indian-Car-Sales-Data-Analysis/assets/95640107/aa4a44ec-dc43-411b-9cdc-0e42cda9ce0f)
+
 
 ## Highlights 🚀🔍
 - **Dataset Exploration:** Gain a deep understanding of dataset structures, ensuring a solid foundation for analysis 🧐📊.
